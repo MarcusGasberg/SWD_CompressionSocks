@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWD_CompressionSocks", "SWD_CompressionSocks\SWD_CompressionSocks.csproj", "{EF03A8BC-E89A-4033-BAE9-6E141F16088C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressionSocks", "CompressionSocks\CompressionSocks.csproj", "{CD08E913-8887-488F-ADA8-7545AA2D6748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF03A8BC-E89A-4033-BAE9-6E141F16088C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF03A8BC-E89A-4033-BAE9-6E141F16088C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF03A8BC-E89A-4033-BAE9-6E141F16088C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF03A8BC-E89A-4033-BAE9-6E141F16088C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD08E913-8887-488F-ADA8-7545AA2D6748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD08E913-8887-488F-ADA8-7545AA2D6748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD08E913-8887-488F-ADA8-7545AA2D6748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD08E913-8887-488F-ADA8-7545AA2D6748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FB5908-8A39-4B21-8EC8-7F649D60EFBB}
+	EndGlobalSection
+EndGlobal
